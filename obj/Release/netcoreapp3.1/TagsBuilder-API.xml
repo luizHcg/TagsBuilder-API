@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>TagsBuilder-API</name>
+    </assembly>
+    <members>
+        <member name="M:TagsBuilder_API.Controllers.TagWatcherController.Get">
+            <summary>
+            Procura todos os responsaveis por gerar o arquivos.
+            </summary>
+        </member>
+        <member name="M:TagsBuilder_API.Controllers.TagWatcherController.Pagination(System.Int32)">
+            <summary>
+            Procura todos os responsaveis por gerar o arquivos divididos em páginas.
+            </summary>
+            <param name="page">página atual da aplicação</param>     
+        </member>
+        <member name="M:TagsBuilder_API.Controllers.TagWatcherController.Post(Model.TagWatcher)">
+            <summary>
+            Registra o indivíduo que gerou um arquivo.
+            </summary>
+            <param name="tagWatcher">objeto TagWatcher</param>
+        </member>
+    </members>
+</doc>

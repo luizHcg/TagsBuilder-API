@@ -1,0 +1,6 @@
+C:\Users\luizh\source\repos\TagsBuilder-API\Model\bin\Debug\netcoreapp3.1\Model.deps.json
+C:\Users\luizh\source\repos\TagsBuilder-API\Model\bin\Debug\netcoreapp3.1\Model.dll
+C:\Users\luizh\source\repos\TagsBuilder-API\Model\bin\Debug\netcoreapp3.1\Model.pdb
+C:\Users\luizh\source\repos\TagsBuilder-API\Model\obj\Debug\netcoreapp3.1\Model.csproj.CoreCompileInputs.cache
+C:\Users\luizh\source\repos\TagsBuilder-API\Model\obj\Debug\netcoreapp3.1\Model.dll
+C:\Users\luizh\source\repos\TagsBuilder-API\Model\obj\Debug\netcoreapp3.1\Model.pdb
